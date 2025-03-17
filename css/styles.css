@@ -122,7 +122,7 @@ letter-spacing: 0.2em;
   padding-bottom: 10px;
 }
 
-.school {
+.school {list-style: outside;
   padding-bottom: 20px;
 }
 
